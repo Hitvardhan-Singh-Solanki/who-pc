@@ -1,0 +1,16 @@
+{
+  "name": "who-am-i",
+  "version": "1.0.0",
+  "description": "The IP addres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitvardhan Singh Solanki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "navigator": "^1.0.1",
+    "window": "^1.0.0"
+  }
+}
